@@ -1,3 +1,4 @@
+![Website screenshot](preview.png)
 # Neighborhood Map
 By Abdulrahman Elsharqawi, This project is supervised by Udacity's **[Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)**
 
